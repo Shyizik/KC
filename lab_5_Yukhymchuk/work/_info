@@ -1,0 +1,39 @@
+m255
+K3
+13
+cModel Technology
+dC:\MS_Yukhymchuk_labs\lab_4_Yukhymchuk
+vdemux_Yukhymchuk
+IaeMKSBAoEM2<0KSlhied]2
+VA15[b3IGj0@fZLc:MGeB71
+Z0 dC:\MS_Yukhymchuk_labs\lab_5_Yukhymchuk
+w1750879408
+8C:/MS_Yukhymchuk_labs/lab_5_Yukhymchuk/demux_Yukhymchuk.v
+FC:/MS_Yukhymchuk_labs/lab_5_Yukhymchuk/demux_Yukhymchuk.v
+L0 1
+Z1 OV;L;6.5b;42
+r1
+31
+Z2 o-work work -nocovercells -O0
+ndemux_@yukhymchuk
+!s100 ]>3JQmdV2eUn;YJfYIzbh1
+!s85 0
+!s101 -O0
+Z3 !s102 -nocovercells
+vtestbench_demux_Yukhymchuk
+!s100 OEbn6z@48a@:Z2b^mOG3l0
+I[;En0P:A787LeL?S3HPQB0
+VK[W?lRgBj0@A0HEI2M];N2
+Z4 dC:\MS_Yukhymchuk_labs\lab_5_Yukhymchuk
+w1750879837
+8C:/MS_Yukhymchuk_labs/lab_5_Yukhymchuk/testbench_demux_Yukhymchuk.v
+FC:/MS_Yukhymchuk_labs/lab_5_Yukhymchuk/testbench_demux_Yukhymchuk.v
+L0 3
+R1
+r1
+!s85 0
+31
+!s101 -O0
+R3
+R2
+ntestbench_demux_@yukhymchuk

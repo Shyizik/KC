@@ -1,0 +1,15 @@
+C:/MS_Yukhymchuk_labs/lab_5_Yukhymchuk/demux_Yukhymchuk.v {1 {vlog -work work -nocovercells C:/MS_Yukhymchuk_labs/lab_5_Yukhymchuk/demux_Yukhymchuk.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module demux_Yukhymchuk
+
+Top level modules:
+	demux_Yukhymchuk
+
+} {} {}} C:/MS_Yukhymchuk_labs/lab_5_Yukhymchuk/testbench_demux_Yukhymchuk.v {1 {vlog -work work -nocovercells C:/MS_Yukhymchuk_labs/lab_5_Yukhymchuk/testbench_demux_Yukhymchuk.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module testbench_demux_Yukhymchuk
+
+Top level modules:
+	testbench_demux_Yukhymchuk
+
+} {} {}}
