@@ -1,0 +1,15 @@
+C:/MS_Yukhymchuk_labs/lab_4_Yukhymchuk/Ex2_Yukhymchuk_Bogdan_function.v {1 {vlog -work work -nocovercells C:/MS_Yukhymchuk_labs/lab_4_Yukhymchuk/Ex2_Yukhymchuk_Bogdan_function.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module function_f4_Yukhymchuk
+
+Top level modules:
+	function_f4_Yukhymchuk
+
+} {} {}} C:/MS_Yukhymchuk_labs/lab_4_Yukhymchuk/Ex2_Yukhymchuk.v {1 {vlog -work work -nocovercells C:/MS_Yukhymchuk_labs/lab_4_Yukhymchuk/Ex2_Yukhymchuk.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module Ex2_OR
+
+Top level modules:
+	Ex2_OR
+
+} {} {}}
