@@ -1,0 +1,13 @@
+C:/MS_Yukhymchuk_labs/lab_3_Yukhymchuk/half_add_lab1.v {1 {vlog -work work -nocovercells C:/MS_Yukhymchuk_labs/lab_3_Yukhymchuk/half_add_lab1.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module half_add
+
+Top level modules:
+	half_add
+
+} {} {}} C:/MS_Yukhymchuk_labs/lab_3_Yukhymchuk/Stim2.do {0 {vcom -work work -2002 -explicit {C:\MS_Yukhymchuk_labs\lab_3_Yukhymchuk\Stim2.do}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+** Error: C:\MS_Yukhymchuk_labs\lab_3_Yukhymchuk\Stim2.do(1): near "force": syntax error
+
+} {4.0 5.0} {}}
